@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and Rust.
 - 📫 Feel free to give me a shout! james@jameslewis.io
 
-Some topics of interest include: DSP, music production software, AI, ML, and blockchain technology. Outside of coding I am a musician and staunch SJW 🍄
+Outside of coding I am a musician 🎸
 
 
 
